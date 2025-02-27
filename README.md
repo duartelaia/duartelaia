@@ -17,6 +17,6 @@ Here are the technologies and languages I work with the most:
 ### 🌐 Connect with Me
 Feel free to explore my repositories and get in touch!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/duartelaia)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/duartelaia)
 
 </div>
