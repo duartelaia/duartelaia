@@ -11,7 +11,7 @@ I'm a computer science student passionate about coding, technology, and always e
 Here are the technologies and languages I work with the most:
 
 <p>
-  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=duartelaia&show_icons=true&locale=en&layout=compact&theme=white&hide=shell,jupyter%20notebook" alt="Most Used Languages" /> 
+  <img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs?username=duartelaia&show_icons=true&locale=en&layout=compact&theme=dark&hide=shell,jupyter%20notebook" alt="Most Used Languages" /> 
 </p>
 
 ### 🌐 Connect with Me
